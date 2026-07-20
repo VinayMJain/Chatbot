@@ -1,5 +1,8 @@
 venv/
 .env
 __pycache__/
-main.py
+demo.py
 api_test.py
+chatbot.log
+chat_history.json
+main.py
